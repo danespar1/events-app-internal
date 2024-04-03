@@ -17,3 +17,9 @@ git config --global init.defaultBranch main
 git config --global --list
 git init add .
 git init
+git add .
+git commit -m "Initial cCommit"
+git commit -m "Initial commit"
+git remote add origin https://github.com/danespar1/events-app-internal.git
+git push -u origin main
+git init
