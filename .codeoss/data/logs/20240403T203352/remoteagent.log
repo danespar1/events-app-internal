@@ -1,0 +1,13 @@
+2024-04-03 20:33:52.307 [info] 
+
+
+
+
+2024-04-03 20:33:52.307 [info] Extension host agent started.
+2024-04-03 20:33:52.353 [info] Started initializing default profile extensions in extensions installation folder. file:///home/danespar1/.codeoss/extensions
+2024-04-03 20:33:52.374 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/danespar1/.codeoss/extensions
+2024-04-03 20:34:00.584 [info] [127.0.0.1][6568df21][ManagementConnection] New connection established.
+2024-04-03 20:34:00.712 [info] [127.0.0.1][fdb2a3a1][ExtensionHostConnection] New connection established.
+2024-04-03 20:34:02.516 [info] [127.0.0.1][fdb2a3a1][ExtensionHostConnection] <1162> Launched Extension Host Process.
+2024-04-03 21:05:31.310 [info] [127.0.0.1][6568df21][ManagementConnection] The client has reconnected.
+2024-04-03 21:05:31.536 [info] [127.0.0.1][fdb2a3a1][ExtensionHostConnection] The client has reconnected.
